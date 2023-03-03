@@ -12,6 +12,7 @@ export default {
       name: "百度",
       url: "www.baidu.com",
       add: "shet",
+      wode: "acccc",
     };
   },
 };
