@@ -11,6 +11,7 @@ export default {
     return {
       name: "百度",
       url: "www.baidu.com",
+      add: "shet",
     };
   },
 };
